@@ -1,0 +1,4 @@
+mode: set
+day5/unit_test/mock_test/mocks/ExternalAPIMock.go:13.67,16.2 2 0
+day5/unit_test/mock_test/service.go:14.38,16.2 1 1
+day5/unit_test/mock_test/service.go:19.63,21.2 1 1
